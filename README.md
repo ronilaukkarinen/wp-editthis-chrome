@@ -4,6 +4,8 @@ Original [source](https://h1.fi/2015/edit-this-bookmarklet-for-wordpress/) by [@
 
 I rarely keep my bookmarks bar open or use any bookmarklets nowadays so I decided to convert this handy bookmarklet into a Chrome extension.
 
+**Please note:** This is modified to work with [dudestack][https://github.com/digitoimistodude/dudestack] where WordPress is installed in subdirectory `wp/` so you will need to edit `boomarklet.js` before installing.
+
 ## Installation
 
 1. Clone this repository or download a zip and unpack it
