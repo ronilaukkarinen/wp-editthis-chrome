@@ -5,8 +5,8 @@
  "default_title": "Edit this"
  },
  "name": "Edit this",
- "description": "Edit a WordPress post - Created with http://blog.self.li",
- "homepage_url": "http://blog.self.li/post/16366939413/how-to-convert-bookmarklet-to-chrome-extension",
+ "description": "Edit a WordPress post directly from Google Chrome",
+ "homepage_url": "https://h1.fi/2015/edit-this-bookmarklet-for-wordpress/",
  "icons": {
      "16": "icon-16.png",
      "48": "icon-48.png",
